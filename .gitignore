@@ -12,3 +12,5 @@
 hs_err_pid*
 
 tags
+
+.DS_Store
